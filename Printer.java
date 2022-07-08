@@ -43,7 +43,6 @@ public class Printer {
 			pagesToPrint = pages;
 			this.pagesPrinted += pagesToPrint;
 		}
-		
 		return pagesToPrint;
 	}
 	
